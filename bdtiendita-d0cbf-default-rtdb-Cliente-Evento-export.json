@@ -1,0 +1,14 @@
+{
+  "clienteEvento1": {
+    "idCliente": "ID2",
+    "idEvento": "id2"
+  },
+  "clienteEvento2": {
+    "idcliente": "id1",
+    "idevento": "id: 1"
+  },
+  "clienteEvento3": {
+    "idEvento": "id: 3",
+    "idcliente": "id3"
+  }
+}
