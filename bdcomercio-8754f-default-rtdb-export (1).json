@@ -1,0 +1,56 @@
+{
+  "tablas": {
+    "DetalleOrden": {
+      "Campos": {
+        "cantidad": 2,
+        "iddetalle": 1,
+        "idorden": 1,
+        "idproducto": 1,
+        "precio Unitario": 63.5
+      }
+    },
+    "Factura": {
+      "Campos": {
+        "fecha": "2023-11-15",
+        "idfactura": 2,
+        "idorden": 1,
+        "total": 124
+      }
+    },
+    "Ordenes": {
+      "Campos": {
+        "fecha": "2023-11-15",
+        "idcliente": 1,
+        "idorden": 1,
+        "total": 124
+      }
+    },
+    "Productos": {
+      "campos": {
+        "descripcion": "six de gallo",
+        "idproducto": 1,
+        "nombre": "Cerveza Gallo",
+        "precio": 63.5,
+        "stock": 56
+      }
+    },
+    "Proveedor": {
+      "Campos": {
+        "correo": "tiendajulitos@gmail.com",
+        "direccion": "Cahabon",
+        "idproveedor": 1,
+        "nombre": "Julitos",
+        "telefono": "6897-8954"
+      }
+    },
+    "clientes": {
+      "campos": {
+        "correo": "orqgar@gmail.com",
+        "direccion": "Cahabon",
+        "idcliente": 1,
+        "nombre": "Orquidea Garcia",
+        "telefono": "4510-6179"
+      }
+    }
+  }
+}
